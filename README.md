@@ -1,4 +1,4 @@
-# Collapsible Component with next-jsco
+# Collapsible Component with next-js
 
 ## Description
 Checkout collapsible-with-context branch to observe how createContext, useContext and customHook works to achieve the custom Collapsible component that can be used across the app.
@@ -11,4 +11,13 @@ https://github.com/nayajunischal/next-react-components/assets/158505791/b77ce2f5
 
 ```bash
 npm run dev
+```
+
+### keywords
+```typescript
+createContext()
+useContext()
+useState()
+forwardRef()
+tailwindcss
 ```
